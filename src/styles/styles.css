@@ -4,12 +4,12 @@
 }
 
 @font-face {
-  font-family: Varela;
-  src: local("Varela"), url("/public/fonts/Varela/Varela-Regular.ttf");
+  font-family: NunitoSans;
+  src: local("NunitoSans"), url("/public/fonts/NunitoSans/static/NunitoSans_10pt-Regular.ttf");
 }
 
 :root {
-  font-family: Varela, Roboto, Helvetica, Arial, sans-serif;
+  font-family: NunitoSans, Roboto, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
 
